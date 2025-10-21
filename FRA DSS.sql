@@ -1,0 +1,2 @@
+CREATE DATABASE fra_dss;
+SHOW TABLES;

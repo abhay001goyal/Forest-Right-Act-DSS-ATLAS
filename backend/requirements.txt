@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+mysql-connector-python
+python-multipart        # if you handle file uploads
+pydantic
+python-dotenv           # if you use .env files
+httpx
