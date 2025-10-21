@@ -15,6 +15,7 @@ Role-based access with user and admin dashboards
 Analytics and statistics for program monitoring
 
 Folder Structure
+
 text
 ├── backend/                        # FastAPI backend
 │   ├── app/
