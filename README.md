@@ -17,7 +17,7 @@ Analytics and statistics for program monitoring
 Folder Structure
 
 text
-├── backend/                        # FastAPI backend
+├── backend/# FastAPI backend
 │   ├── app/
 │   │   ├── main.py                 # App entrypoint and router mounting
 │   │   ├── models.py               # SQLAlchemy ORM models
