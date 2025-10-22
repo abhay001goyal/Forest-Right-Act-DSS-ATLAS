@@ -128,7 +128,11 @@ These states are chosen based on diverse forest types, administrative capacities
 - Satellite-driven land cover auto-filling  
 - Multi-language and offline claim submission support  
 - Secure geo-tagged media uploads for documentation  
-- RESTful APIs for integration with third-party tools  
+- RESTful APIs for integration with third-party tools
+
+👨‍💻 Author
+
+Developed by: Abhay Goyal 
 
 ---
 
